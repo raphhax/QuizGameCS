@@ -7,4 +7,4 @@ Jogo criado com 2 intuitos:
 
 Jogo desenvolvido usando como base um tutorial americano disponível na plataforma de vídeos Youtube.
 
-Para acessar os códigos do jogo basta percorrer o caminho: CSharp Quiz Game -> CSharp Quiz Game. 
+Para acessar os códigos do jogo basta percorrer o caminho: CSharp quiz game -> CSharp quiz game. 
