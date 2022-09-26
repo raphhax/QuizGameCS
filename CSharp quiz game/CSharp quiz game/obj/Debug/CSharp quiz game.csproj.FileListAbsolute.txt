@@ -1,0 +1,11 @@
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\bin\Debug\CSharp quiz game.exe.config
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\bin\Debug\CSharp quiz game.exe
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\bin\Debug\CSharp quiz game.pdb
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp quiz game.csproj.AssemblyReference.cache
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp quiz game.csproj.SuggestedBindingRedirects.cache
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp_quiz_game.Form1.resources
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp_quiz_game.Properties.Resources.resources
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp quiz game.csproj.GenerateResource.cache
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp quiz game.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp quiz game.exe
+C:\Users\rapha\source\Studio\Solo\C#\Projetos\CSharp quiz game\CSharp quiz game\CSharp quiz game\obj\Debug\CSharp quiz game.pdb
